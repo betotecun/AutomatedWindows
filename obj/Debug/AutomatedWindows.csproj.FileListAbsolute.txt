@@ -1,0 +1,10 @@
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\bin\Debug\AutomatedWindows.exe.config
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\bin\Debug\AutomatedWindows.exe
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\bin\Debug\AutomatedWindows.pdb
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\obj\Debug\AutomatedWindows.Properties.Resources.resources
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\obj\Debug\AutomatedWindows.csproj.GenerateResource.Cache
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\obj\Debug\AutomatedWindows.csproj.CoreCompileInputs.cache
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\obj\Debug\AutomatedWindows.exe
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\obj\Debug\AutomatedWindows.pdb
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\obj\Debug\AutomatedWindows.FormMailClient.resources
+C:\CodeData\VB\BeastOL\24\AutomatedWindows\obj\Debug\AutomatedWindows.csprojResolveAssemblyReference.cache
